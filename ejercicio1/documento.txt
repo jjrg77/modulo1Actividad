@@ -1,0 +1,28 @@
+INTRODUCCIÓN AL PROBLEMA
+
+Los clientes de negocios familiares (restaurantes, papelerías, comercios diversos..)se encuentran con el problema de tener que acudir a empresas de servicios (Amazon, tripadvisor, eltenedor...) para tener más visibilidad en la WEB. El buen posicionamiento SEO ejercido por estas empresas les brinda la seguridad de ser vistos por muchos usuarios. Normalmente, al trabajar con estas empresas, el pequeño empresario ve cubierta su necesidad de intentar llegar a más personas y, en consecuencia, a que su negocio crezca.
+
+
+
+EXPLICACIÓN DEL SERVICIO 
+
+Con la creación del sitio WEB adecuado, cualquier PYME puede ofrecer, a través de su sitio WEB propio, los servicios y ventajas que le ofrecen estas empresas, con la ventaja de que al proceder dichos servicios de su propia WEB, pueden ahorrarse la comisión de estas empresas y así, obtener un mayor beneficio.
+Para generar esta ventaja, nos guiaremos por un buen servicio SEO, asegurándonos su visualización en GOOGLE, y la inclusión de más ventajas hacia el cliente para así promover su fidelización en el sitio WEB. 
+
+Los servicios que dará la frutería son los siguientes:
+
+-Venta on line con recogida en tienda.
+
+-Venta on Line a domicilio.
+
+-Cupón descuento diario visitando nuestra WEB: el usuario encontrará un cupón diario en la WEB donde se le realizará un descuento del 5% adicional en compra sólo en establecimiento. Dicho cupón cambiará cada día, de tal forma que la página tendrá más visitas habituales, consiguiendo más presencia en la WEB pudiéndola utilizar, por ejemplo, para insertar publicidad en su sitio WEB.
+
+Además, con este proceso, tenemos la ventaja de convertir a esas empresas en aliados en vez de competidores, ya que cualquier PYME puede seguir utilizando los servicios de dichas empresas complementariamente. 
+
+
+
+EXTRA
+
+Este proyecto se basará en la creación de un sitio WEB de una frutería de barrio. Actualmente, sus mayores competidores son los grandes comercios (carrefour, Alcampo...) los cuáles ofrecen la opción de realizar compras tanto en establecimiento como On Line. En relación a empresas ON LINE, AMAZON suele cobrar entre un 8 y un 20% por vender con ellos. Con nuestra página WEB, dicha frutería se ahorrará esa comisión, sin mermar su aparición en la WEB, ya que, a diferencia de dichas plataformas, en las que pueden aparecer decenas de empresas vendiendo un producto similar, en nuestro sitio WEB el cliente final sólo ve a nuestro protagonista: la frutería. 
+
+Además, aplicaciones como TOO GOOD TO GO, ofrecen la posibilidad de vender en lotes la mercancía sobrante a un precio más reducido. Nuestro sitio WEB tendrá este servicio incluido, derivando todo ello, en un mejor aprovechamiento de los recursos de la frutería y aumentando así su volumen de negocio.
